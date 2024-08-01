@@ -1,0 +1,20 @@
+@media screen and (min-width: 1024px)
+              and (max-width: 1100px){
+  
+  .about__text {
+    min-width: 200px;
+    max-width: 500px;
+    box-sizing: content-box;
+    background-color: #4285f4;
+    padding: 1em 1em 0;
+    border-left: 15px solid #8d94ba;
+  }
+  .about__img__mobile {
+    display: none;
+  }
+  .about__img {
+    display: block;
+    max-width: 382px;
+    max-height: 382px;
+  }
+}

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description"
+        content="Web Projects by Super Star. 20+ Web Design projects for HTML, CSS & JS skill development. Collaborative and open for contributions on Github.">
+    <meta name="keywords"
+        content="HTML, CSS, JavaScript, Web Design Lab, Super Star, Web Design, Web Design Projects, Free Web Design Project, Web Design Idea, Html Project, Html Css Project, Html Css JavaScript Project, Saif Super Star, Github">
+    <meta name="author" content="Super Star">
+    <title>Web Projects by Super Star</title>
+    <link rel="shortcut icon" href="./assets/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="./assets/css/styles.css" /><!-- main stylesheet -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="projects.js"></script>
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <!-- custom skeleton preloader -->
+    <div id="preloader" class="fixed top-0 left-0 bg-slate-300 w-screen h-screen z-10">
+        <div class="wrapper">
+            <div class="mx-3 md:max-w-screen-xl md:mx-auto h-14">
+                <div class="flex justify-between items-center pt-6">
+                    <div class="w-48 h-8 bg-slate-200 "></div>
+                    <div class="w-40 h-8 bg-slate-200 rounded-full"></div>
+                </div>
+            </div>
+            <div class="bg-slate-200 p-6 pb-12 m-6">
+                <div class="max-w-screen-xl mx-auto">
+                    <div class="bg-slate-100 h-12 p-1 mb-3"></div>
+                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                        <div class="bg-slate-100 h-64"></div>
+                        <div class="bg-slate-100 h-64"></div>
+                        <div class="bg-slate-100 h-64"></div>
+                        <div class="bg-slate-100 h-64"></div>
+                        <div class="bg-slate-100 h-64"></div>
+                        <div class="bg-slate-100 h-64"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header navigation bar-->
+    <header class="bg-slate-200 pt-4">
+        <div class="mx-3 md:max-w-screen-xl md:mx-auto">
+            <div class="text-center flex justify-between items-center">
+                <div href="https://github.com/superstar3222?tab=projects"
+                    class="text-xl md:text-3xl text-blue-500 text-center font-bold font-mono">
+                    Web PROJECTS
+                    <span
+                        class="bg-red-500 text-white p-2 h-full rounded-full text-sm relative top-[-12px] left-[-12px]">
+                        22+
+                    </span>
+                </div>
+
+                <div class="bg-slate-800 hover:bg-slate-900 text-white font-medium py-1 px-2 md:py-2 md:px-4 rounded-full"
+                    href="https://github.com/superstar3222?tab=projects">
+                    Follow on GitHub
+            </div>
+            </div>
+        </div>
+    </header>
+    <main class="bg-slate-200 p-1">
+        <section id="about" class="about">
+            <h1 class="about__title">Get to know me<span class="about__title__dot"></span></h1>
+            <div class="about__info__container">
+                <div class="about__text">
+                    <img src="assets/images/Super_Star.webp" srcset="images/james_small.jpg 800w,
+                              images/james_medium.jpg 1100w,
+                              assets/images/Super_Star.webp 1400w" sizes="100vw" class="about__img__mobile"
+                        alt="autor portrait" />
+                    <p class="about__text__description">
+                        Hello, my name is Super_Star. I am a Full-Stack Developer with 9+ years of experiences in developing websites and web apps.
+                    </p>
+                    <p class="about__text__description">
+                        I design and develop websites and web applications using JavaScript, TypeScript, React, Vue, PHP, Python, WordPress, Kotlin, Swift, AWS and etc. 
+                        When dealing with a project I pay attention to the smallest details addressing problems with patience. 
+                        Web design and development help me to free my creative mind and allow me satisfy my desire towards constant self growth.
+                    </p>
+                </div>
+                <div class="about__img__container">
+                    <img src="assets/images/Super_Star.webp" srcset="images/james_small.jpg 800w,
+                              images/james_medium.jpg 1100w,
+                              assets/images/Super_Star.webp 1400w" sizes="100vw" class="about__img"
+                        alt="autor portrait" />
+                </div>
+            </div>
+        </section>
+        <section class="bg-slate-100 md:p-2 lg:p-6 pb-12 m-2 md:m-3 lg:m-6">
+            <div class="max-w-screen-xl mx-auto">
+                <h1
+                    class="text-xl lg:text-3xl text-slate-800 bg-slate-200 font-semibold border-b-2 text-center p-2 mb-3">
+                    6+ Featured
+                    Projects</h1>
+                <div id="featured-projects" class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
+                    <!-- Projects injecting by script.js -->
+                </div>
+            </div>
+        </section>
+
+        <section class="bg-slate-100 md:p-2 lg:p-6 pb-12 m-2 md:m-3 lg:m-6">
+            <div class="max-w-screen-xl mx-auto">
+                <h1
+                    class="text-xl lg:text-3xl text-slate-800 bg-slate-200 font-semibold border-b-2 text-center  p-2 mb-3">
+                    15+ Other
+                    Projects</h1>
+                <div id="total-projects" class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
+                    <!-- Projects injecting by script.js -->
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p class="text-center text-sm text-slate-600 font-mono py-3">
+            &#169; 2023 All rights reserved by Super Star
+        </p>
+    </footer>
+</body>
+
+</html>
