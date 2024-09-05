@@ -5,17 +5,6 @@
 <div>
 
 <div align="center" width="100%">
-  <img src="./assets/JavaScript.png"/ width="220" height="100">
-  <img src="./assets/MERN-Stack.png"/ width="220" height="100">
-  <img src="./assets/Flutter.png"/ width="170" height="90">
-  <img src="./assets/Android.png"/ width="190" height="90">
-  <img src="./assets/Python.png"/ width="170" height="90">
-  <img src="./assets/PHP.png"/ width="140" height="80">
-  <img src="./assets/Firebase.png"/ width="200" height="100">
-  <img src="./assets/Tailwind.png"/ width="220" height="100">
-<div>
-
-<div align="center" width="100%">
   <img src="./assets/lookingfor.png" />
 <div>
 
