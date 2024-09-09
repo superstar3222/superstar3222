@@ -3,10 +3,6 @@
 </p>
 
 <div align="center" width="100%">
-  <img src="./assets/title.png" alt="Title Image" />
-</div>
-
-<div align="center" width="100%">
   <img src="./assets/lookingfor.png" alt="Looking For Image" />
 </div>
 
@@ -33,7 +29,7 @@
   <img src="./assets/capacitorjs.svg" alt="CapacitorJS" width="40" height="40"/>
   <img src="./assets/coffeescript.svg" alt="CoffeeScript" width="40" height="40"/>
   <img src="./assets/memsql.svg" alt="MemSQL" width="40" height="40"/>
-  <img src="./assets/mongodb.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="./assets/mongoDB.svg" alt="MongoDB" width="40" height="40"/>
   <img src="./assets/mysql.svg" alt="MySQL" width="40" height="40"/>
   <img src="./assets/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="./assets/tailwind.svg" alt="Tailwind" width="40" height="40"/>
