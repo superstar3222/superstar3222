@@ -83,12 +83,6 @@
 ### GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/superstar3222?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=superstar3222&theme=onestar&no-frame=false" alt="superstar3222" width="98%"/>
-  </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/superstar3222">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=superstar3222&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="98%" alt="Activity Graph">
   </a>
